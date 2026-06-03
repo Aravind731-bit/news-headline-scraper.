@@ -1,0 +1,10 @@
+1. A walking tour of surveillance infrastructure in Seattle
+2. Three Ways to Get Paid
+3. Fidonet: Technology, Use, Tools, and History (1993)
+4. Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai
+5. Why Janet?
+6. Coreutils for Windows
+7. Expanding Project Glasswing
+8. Larry Ellison: "Citizens will be on their best behavior because we're recording"
+9. Love systemd timers
+10. Preparing for KDE Plasma's Last X11-Supported Release
